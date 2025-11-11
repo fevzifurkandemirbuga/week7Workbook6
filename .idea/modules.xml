@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AssetManager/AssetManager.iml" filepath="$PROJECT_DIR$/AssetManager/AssetManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TraditionalLoops_Stream/TraditionalLoops_Stream.iml" filepath="$PROJECT_DIR$/TraditionalLoops_Stream/TraditionalLoops_Stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/workbook_6.iml" filepath="$PROJECT_DIR$/workbook_6.iml" />
     </modules>
   </component>
